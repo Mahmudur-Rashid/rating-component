@@ -40,7 +40,7 @@ Users should be able to:
 - CSS custom properties
 - Mobile-first workflow
 - Javascript
-- [Bootstrap](https://bootstrap.com/components)
+- [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 
 
 ## Author
