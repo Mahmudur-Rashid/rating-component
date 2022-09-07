@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Rating Component](https://your-solution-url.com)
+- Solution URL: [Rating Component](https://www.frontendmentor.io/solutions/interactive-rating-component-using-bootstrap-5-NuQQL0uta8)
 - Live Site URL: [Netlify](https://your-live-site-url.com)
 
 ## My process
